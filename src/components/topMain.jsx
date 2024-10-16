@@ -32,10 +32,10 @@ const topMain = () => {
   return (
     <div id="top-main" className="">
     {/* Scrolling Text at Bottom */}
-    <div className="bottom-4 w-full md:w-full overflow-hidden whitespace-nowrap py-24">
+    <div className="bottom-4 w-full md:w-full overflow-hidden whitespace-nowrap py-10">
       <div id="banner" className="animate-scroll inline-block">
         {[...Array(2)].map((_, i) => (
-          <span key={i} className="mx-4 text-5xl md:text-8xl text-black">
+          <span key={i} className="mx-4 text-7xl md:text-8xl text-black">
             <b>✦ LYFE ✦</b>
             <span className="mx-4 text-5xl md:text-8xl"> BEYOND THE SCREEN </span>
             <b>✦ LYFE ✦</b>

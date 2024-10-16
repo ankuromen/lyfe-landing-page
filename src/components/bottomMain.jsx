@@ -4,7 +4,7 @@ import { FaApple } from "react-icons/fa";
 
 const BottomMain = () => {
   return (
-    <div className="relative flex flex-col justify-between items-center min-h-fit lg:px-16 py-10 md:pb-10">
+    <div className="relative flex flex-col justify-between items-center min-h-fit lg:px-16 pb-10 md:pb-10">
       {/* Header Text */}
       <div className="text-left mt-10 px-4">
         <h1 className="text-3xl md:text-4xl lg:text-4xl xl:text-8xl text-black">
